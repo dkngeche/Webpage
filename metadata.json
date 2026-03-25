@@ -1,0 +1,7 @@
+{
+  "name": "Dickson Ngeche - AI Strategy Consultant",
+  "description": "A premium personal brand platform and admin dashboard for AI consulting and strategic advisory services.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
